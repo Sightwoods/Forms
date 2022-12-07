@@ -8,8 +8,6 @@ namespace EstadoCuentas.Models
 {
     internal class Pagos
     {
-
-        public string? Id { get; set; }
         public string NumeroMatricula { get; set; } = null!;
         public string TipoPago { get; set; } = null!;
         public string Institucion { get; set; } = null!;
