@@ -17,4 +17,3 @@ C:\Users\Ruben\source\repos\IPagos\IPagos\obj\Debug\net6.0-windows\refint\IPagos
 C:\Users\Ruben\source\repos\IPagos\IPagos\obj\Debug\net6.0-windows\IPagos.pdb
 C:\Users\Ruben\source\repos\IPagos\IPagos\obj\Debug\net6.0-windows\IPagos.genruntimeconfig.cache
 C:\Users\Ruben\source\repos\IPagos\IPagos\obj\Debug\net6.0-windows\ref\IPagos.dll
-C:\Users\Ruben\source\repos\IPagos\IPagos\obj\Debug\net6.0-windows\IPagos.Form2.resources
